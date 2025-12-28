@@ -2,7 +2,7 @@
 🔭 I’m currently working on **Android App Development & Agentic AI**<br>
 👯 I’m looking to collaborate on **Building AI agents & training ML/DL models**<br>
 🤝 I’m looking for help with **Android app architecture & optimization**<br>
-🌱 I’m currently learning **Computer Engineering (CS + hardware fundamentals)**<br>
+🌱 I’m currently learning **Computer Engineering**<br>
 💬 Ask me about **Python, Java, HTML, CSS, JS, Linux, Machine Learning, and occasional comedy**<br>
 ⚡ Fun fact: **My humor is like my algorithms — either O(1) genius or exponential chaos**
 
